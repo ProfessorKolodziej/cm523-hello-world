@@ -34,7 +34,7 @@
     "file-loader": "^6.2.0",
     "gh-pages": "^5.0.0",
     "live-server": "^1.2.2",
-    "stylelint": "^15.8.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-standard": "^33.0.0"
   },
   "dependencies": {
